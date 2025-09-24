@@ -20,6 +20,6 @@ No momento sou estagiário na SMN Tecnologia da Informação, onde sigo contribu
 * Bancos de dados;
 * SQL Server Management Studio (SSMS);
 
-## Links e Redes Sociais
+## Links e Redes Sociais 🔗
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarolliveira/)
